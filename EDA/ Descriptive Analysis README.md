@@ -6,10 +6,10 @@ to uncover key insights into sales patterns, customer behavior, and product perf
 
 Key Analysis Steps:
 
-## Data Cleaning
+### Data Cleaning
  Processed and cleaned the dataset by handling missing values, duplicates, and incorrect data types to ensure accuracy.
 
-## Distribution Analysis
+### Distribution Analysis
  Explored the distribution of key variables like sales, quantity, and unit price to understand data spread and detect outliers.
 
 ## Quantity Analysis
