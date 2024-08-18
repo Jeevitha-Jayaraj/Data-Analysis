@@ -12,27 +12,27 @@ Key Analysis Steps:
 ### Distribution Analysis
  Explored the distribution of key variables like sales, quantity, and unit price to understand data spread and detect outliers.
 
-## Quantity Analysis
+### Quantity Analysis
  Analyzed sales quantity trends to identify peak periods and products with high demand.
 
-## Unit Price Analysis
+### Unit Price Analysis
  Examined unit price patterns across products to identify pricing trends and anomalies.
 
-## Time Series Analysis
+### Time Series Analysis
  Conducted a time-based analysis to uncover seasonal trends and customer purchasing behavior over time.
 
-## Customer Analysis
+### Customer Analysis
  Segmented customers based on their purchasing patterns, identifying high-value segments and key demographics.
 
-## Product Analysis
+### Product Analysis
  Evaluated product performance to identify top sellers and underperforming categories.
  
-## Geographical Analysis
+### Geographical Analysis
  Analyzed sales distribution across regions to identify geographical hotspots and areas for growth.
 
-## Sales Performance
+### Sales Performance
  Assessed overall sales performance by comparing metrics across different periods and product categories.
 
-## Order Analysis
+### Order Analysis
  Investigated order patterns to understand customer behavior, including order frequency, size, and value.
 
